@@ -2,7 +2,7 @@
 
 **`Data/Desenvolvedor`**
 
-Me chamo Marlon Martins Braga, atuo como Data Scientist com foco em extração, automação e integração de dados utilizando SQL, Python, Pandas e NumPy. Tenho experiência no desenvolvimento de soluções inteligentes que conectam dados à inteligência artificial, otimizando processos e gerando insights relevantes. Além disso, possuo conhecimento em JavaScript, com projetos em React e Node.js, o que me permite integrar ciência de dados com aplicações web modernas. Sou movido por desafios e pela busca constante por inovação através da tecnologia.
+Me chamo Marlon Martins Braga, atuo como Data Scientist com foco em extração, automação e integração de dados utilizando SQL, Power Bi, Python, Pandas e NumPy. Tenho experiência no desenvolvimento de soluções inteligentes que conectam dados à AI, otimizando processos e gerando insights relevantes. Além disso, possuo conhecimento em JavaScript, com projetos em React e Node.js, o que me permite integrar ciência de dados com aplicações web modernas. Sou movido por desafios e pela busca constante por inovação através da tecnologia.
 
 ---
 
