@@ -1,12 +1,26 @@
+<div align="center">
+
+<img src="https://i.imgur.com/7yUvePI.gif" width="100px" style="border-radius: 50%;" />
+
 # 👨🏽‍💻 Marlon Braga
 
 **`Data/Desenvolvedor`**
 
-Me chamo Marlon Martins Braga, atuo como Data Scientist com foco em extração, automação e integração de dados utilizando SQL, Power Bi, Python, Pandas e NumPy. Tenho experiência no desenvolvimento de soluções inteligentes que conectam dados à AI, otimizando processos e gerando insights relevantes. Além disso, possuo conhecimento em JavaScript, com projetos em React e Node.js, o que me permite integrar ciência de dados com aplicações web modernas. Sou movido por desafios e pela busca constante por inovação através da tecnologia.
+</div>
+
+<div align="center">
+
+Me chamo Marlon Martins Braga, atuo como Data Scientist com foco em extração, automação e integração de dados utilizando **SQL**, **Power BI**, **Python**, **Pandas** e **NumPy**. Tenho experiência no desenvolvimento de soluções inteligentes que conectam dados à **Inteligência Artificial**, otimizando processos e gerando insights relevantes.  
+Além disso, possuo conhecimento em **JavaScript**, com projetos em **React** e **Node.js**, o que me permite integrar ciência de dados com aplicações web modernas.  
+Sou movido por desafios e pela busca constante por inovação através da tecnologia.
+
+</div>
 
 ---
 
 ### 🤖 Linguagens e Tecnologias
+
+<div style="background-color:#0d1117; padding:20px; border-radius:10px;">
 
 <img 
     align="left" 
@@ -48,7 +62,14 @@ Me chamo Marlon Martins Braga, atuo como Data Scientist com foco em extração, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Node.js"
+    title="Node.js" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
 <img 
     align="left" 
     alt="Git" 
@@ -65,7 +86,6 @@ Me chamo Marlon Martins Braga, atuo como Data Scientist com foco em extração, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <img 
     align="left" 
     alt="SQL" 
@@ -74,6 +94,26 @@ Me chamo Marlon Martins Braga, atuo como Data Scientist com foco em extração, 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Power BI" 
+    title="Power BI"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" 
+/>
 
+<br/><br/><br/>
 
-<br/>
+</div>
+
+---
+
+### 🧠 Estatísticas GitHub
+
+<div align="center">
+
+![Marlon GitHub Stats](https://github-readme-stats.vercel.app/api?username=MylinDev&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MylinDev&layout=compact&theme=dark)
+
+</div>
