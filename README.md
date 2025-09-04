@@ -2,11 +2,10 @@
 </p>
 <div align="center">
   <h1> ##👨🏽‍💻 DATA/DEVELOPER</h1>
-  <strong>Data/Developer</strong>
-  <br/>
+
   ![Tech Working GIF by Pudgy Penguins](https://github.com/user-attachments/assets/d52b400c-b693-4dbd-a14f-4b6b194ea121)
 
-  <br/>
+
   Me chamo Marlon , atuo como Data Scientist com foco em extração, automação e integração de dados utilizando **SQL**, **Power BI**, **Python**, **Pandas** e **NumPy**. Tenho experiência no desenvolvimento de soluções inteligentes que conectam dados à **Inteligência   Artificial**, otimizando processos e gerando insights relevantes.
   Além disso, possuo conhecimento em **JavaScript**, com projetos em **React** e **Node.js**, o que me permite integrar ciência de dados com aplicações web modernas.
   Sou movido por desafios e pela busca constante por inovação através da tecnologia.
