@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://i.imgur.com/7yUvePI.gif" width="100px" style="border-radius: 50%;" />
 
 # 👨🏽‍💻 Marlon Braga
 
@@ -94,13 +93,6 @@ Sou movido por desafios e pela busca constante por inovação através da tecnol
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Power BI" 
-    title="Power BI"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_BI_logo.svg" 
 />
 
 <br/><br/><br/>
