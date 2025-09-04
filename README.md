@@ -101,6 +101,7 @@
 ### 📊 Estatísticas
 
 <!-- Gráfico de contribuições (streak) -->
+<p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=MylinDev&theme=dark&date_format=j%20M%5B%20Y%5D"
     alt="GitHub Streak"
@@ -115,7 +116,7 @@
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=MylinDev&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
-
+<p align="center">
   <img 
     alt="GitHub Top Languages" 
     height="200" 
