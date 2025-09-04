@@ -1,4 +1,5 @@
-<p align="center">
+<p align="center">![Tech Working GIF by Pudgy Penguins](https://github.com/user-attachments/assets/1e8cd86b-1da2-4462-8aeb-4ce63d0271db)
+
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBqM3F6Mm82OGgxYnlxYWRuYjNrZG5hZndhMG1rbWpwOHd5ZnhvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" alt="Dev Banner" width="100%" />
 </p>
 <div align="center">
