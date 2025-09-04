@@ -105,6 +105,7 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=MylinDev&theme=dark&date_format=j%20M%5B%20Y%5D"
     alt="GitHub Streak"
     height="200"
+    style="padding-right: 10px;" 
   />
 
 <p align="center">
@@ -118,6 +119,7 @@
   <img 
     alt="GitHub Top Languages" 
     height="200" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MylinDev&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
