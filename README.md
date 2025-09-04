@@ -23,6 +23,14 @@ Sou movido por desafios e pela busca constante por inovação através da tecnol
 
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Pandas" 
     title="Pandas"
     width="30px" 
@@ -39,14 +47,6 @@ Sou movido por desafios e pela busca constante por inovação através da tecnol
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
 <img 
     align="left" 
     alt="SQL" 
