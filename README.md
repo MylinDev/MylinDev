@@ -1,19 +1,18 @@
 
 </p>
 <div align="center">
-  <h1>👨🏽‍💻 MylinDev</h1>
+  <h1> ##👨🏽‍💻 DATA/DEVELOPER</h1>
   <strong>Data/Developer</strong>
   <br/>
-
   <br/>
-
+![Tech Working GIF by Pudgy Penguins](https://github.com/user-attachments/assets/ba60d541-5c3f-443a-a1e2-1b8879c7f414)
   Me chamo Marlon Martins Braga, atuo como Data Scientist com foco em extração, automação e integração de dados utilizando **SQL**, **Power BI**, **Python**, **Pandas** e **NumPy**. Tenho experiência no desenvolvimento de soluções inteligentes que conectam dados à **Inteligência Artificial**, otimizando processos e gerando insights relevantes.
   Além disso, possuo conhecimento em **JavaScript**, com projetos em **React** e **Node.js**, o que me permite integrar ciência de dados com aplicações web modernas.
   Sou movido por desafios e pela busca constante por inovação através da tecnologia.
 </div>
 
 ---
-![Tech Working GIF by Pudgy Penguins](https://github.com/user-attachments/assets/ba60d541-5c3f-443a-a1e2-1b8879c7f414)
+
 
 ### 🤖 Linguagens e Tecnologias
 
