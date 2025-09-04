@@ -3,7 +3,7 @@
 
 # 👨🏽‍💻 Marlon Braga
 
-**`Data/Desenvolvedor`**
+**`Data/Developer`**
 
 </div>
 
@@ -99,13 +99,3 @@ Sou movido por desafios e pela busca constante por inovação através da tecnol
 
 </div>
 
----
-
-### 🧠 Estatísticas GitHub
-
-<div align="center">
-
-![Marlon GitHub Stats](https://github-readme-stats.vercel.app/api?username=MylinDev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MylinDev&layout=compact&theme=dark)
-
-</div>
