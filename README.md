@@ -1,6 +1,4 @@
 
-
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBqM3F6Mm82OGgxYnlxYWRuYjNrZG5hZndhMG1rbWpwOHd5ZnhvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" alt="Dev Banner" width="100%" />
 </p>
 <div align="center">
   <h1>👨🏽‍💻 MylinDev</h1>
@@ -15,6 +13,7 @@
 </div>
 
 ---
+![Tech Working GIF by Pudgy Penguins](https://github.com/user-attachments/assets/ba60d541-5c3f-443a-a1e2-1b8879c7f414)
 
 ### 🤖 Linguagens e Tecnologias
 
