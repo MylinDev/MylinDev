@@ -1,4 +1,6 @@
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/oFYKw5OTZBZzVONpUh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-hacker-hacking-hackerman-oFYKw5OTZBZzVONpUh">via GIPHY</a></p>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTBqM3F6Mm82OGgxYnlxYWRuYjNrZG5hZndhMG1rbWpwOHd5ZnhvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oFYKw5OTZBZzVONpUh/giphy.gif" alt="Dev Banner" width="100%" />
+</p>
 <div align="center">
   <h1>👨🏽‍💻 MylinDev</h1>
   <strong>Data/Developer</strong>
