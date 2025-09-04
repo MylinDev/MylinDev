@@ -3,9 +3,6 @@
   **`Data/Developer`**
   
   <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=MylinDev&theme=dark&hide_rank=true" />
-</div>
 
 <div align="center">
   Me chamo Marlon Martins Braga, atuo como Data Scientist com foco em extração, automação e integração de dados utilizando **SQL**, **Power BI**, **Python**, **Pandas** e **NumPy**. Tenho experiência no desenvolvimento de soluções inteligentes que conectam dados à **Inteligência Artificial**, otimizando processos e gerando insights relevantes.
