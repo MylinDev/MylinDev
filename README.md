@@ -1,9 +1,10 @@
 <div align="center">
-  <h1>👨🏽‍💻 Marlon Braga</h1>
+  <h1>👨🏽‍💻 MylinDev</h1>
   **`Data/Developer`**
+  
   <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MarlonMartinsBraga&theme=dark&hide_rank=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=MylinDev&theme=dark&hide_rank=true" />
 </div>
 
 <div align="center">
@@ -91,9 +92,4 @@
     title="Git"
     width="30px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-
-<br/><br/><br/>
-
-</div>
+    src="
