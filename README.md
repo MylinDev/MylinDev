@@ -10,13 +10,6 @@
     height="200"
   />
 
-  <!-- Gráfico de contribuições padrão do GitHub -->
-  <img
-    src="https://github-contribution-grid-widget.vercel.app/image?username=MylinDev&theme=dark"
-    alt="GitHub Contribution Grid"
-    height="200"
-  />
-
   <br/>
 
   Me chamo Marlon Martins Braga, atuo como Data Scientist com foco em extração, automação e integração de dados utilizando **SQL**, **Power BI**, **Python**, **Pandas** e **NumPy**. Tenho experiência no desenvolvimento de soluções inteligentes que conectam dados à **Inteligência Artificial**, otimizando processos e gerando insights relevantes.
@@ -113,6 +106,13 @@
 ---
 
 ### 📊 Estatísticas
+
+<!-- Gráfico de contribuições (streak) -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MylinDev&theme=dark&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+    height="200"
+  />
 
 <p align="center">
   <img 
